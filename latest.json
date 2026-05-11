@@ -3,10 +3,9 @@
   "artist": "Stephen Parsons",
   "album": "Touches of the Heart",
   "type": "Latest Single",
-  "cover": "images/covers/stephen-parsons-calling-in-the-silence.png",
-  "image": "images/covers/stephen-parsons-calling-in-the-silence.png",
+  "cover": "https://raw.githubusercontent.com/SteveP999/stephen-parsons/main/images/covers/stephen-parsons-calling-in-the-silence.png",
+  "image": "https://raw.githubusercontent.com/SteveP999/stephen-parsons/main/images/covers/stephen-parsons-calling-in-the-silence.png",
   "audio": "https://www.dropbox.com/scl/fi/qifps9vrox4dbkrsf4k5u/stephen-parsons-calling-in-the-silence-mp3.mp3?rlkey=7zz2iut6s3n23sbf8q23rot2s&raw=1",
   "audioSrc": "https://www.dropbox.com/scl/fi/qifps9vrox4dbkrsf4k5u/stephen-parsons-calling-in-the-silence-mp3.mp3?rlkey=7zz2iut6s3n23sbf8q23rot2s&raw=1",
-  "albumCover": "images/covers/stephen-parsons-touches-of-the-heart-cover.png",
   "videos": []
 }

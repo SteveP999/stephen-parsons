@@ -1,0 +1,10 @@
+{
+  "name": "Stephen Parsons",
+  "short_name": "Stephen Pars",
+  "description": "Stephen Parsons on Hello Texas Records",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#090806",
+  "theme_color": "#d49a25",
+  "icons": []
+}
