@@ -2,28 +2,36 @@
   "artist": "Stephen Parsons",
   "latestUrl": "latest.json",
   "featuredTrack": {
-    "title": "Calling in the Silence",
+    "title": "Thank You Mom and Dad",
     "artist": "Stephen Parsons",
     "album": "Touches of the Heart",
-    "cover": "https://raw.githubusercontent.com/SteveP999/stephen-parsons/main/images/covers/stephen-parsons-calling-in-the-silence.png",
-    "audioSrc": "https://www.dropbox.com/scl/fi/qifps9vrox4dbkrsf4k5u/stephen-parsons-calling-in-the-silence-mp3.mp3?rlkey=7zz2iut6s3n23sbf8q23rot2s&raw=1",
+    "cover": "https://raw.githubusercontent.com/SteveP999/stephen-parsons/main/images/covers/stephen-parsons-thank-you-mom-and-dad-cover.png",
+    "audioSrc": "https://www.dropbox.com/scl/fi/09pimczovbjl5bbjqoxjf/stephen-parsons-thank-you-mom-and-dad-mp3.mp3?rlkey=v5qac8t8s945oe016y1p2lnej&raw=1",
     "videos": []
   },
   "tracks": [
     {
-      "title": "Calling in the Silence",
+      "title": "Thank You Mom and Dad",
       "artist": "Stephen Parsons",
       "album": "Touches of the Heart",
-      "cover": "https://raw.githubusercontent.com/SteveP999/stephen-parsons/main/images/covers/stephen-parsons-calling-in-the-silence.png",
-      "audioSrc": "https://www.dropbox.com/scl/fi/qifps9vrox4dbkrsf4k5u/stephen-parsons-calling-in-the-silence-mp3.mp3?rlkey=7zz2iut6s3n23sbf8q23rot2s&raw=1",
+      "cover": "https://raw.githubusercontent.com/SteveP999/stephen-parsons/main/images/covers/stephen-parsons-thank-you-mom-and-dad-cover.png",
+      "audioSrc": "https://www.dropbox.com/scl/fi/09pimczovbjl5bbjqoxjf/stephen-parsons-thank-you-mom-and-dad-mp3.mp3?rlkey=v5qac8t8s945oe016y1p2lnej&raw=1",
       "videos": []
     },
     {
-      "title": "Done With The Damage",
+      "title": "Run to His Heart",
       "artist": "Stephen Parsons",
       "album": "Touches of the Heart",
-      "cover": "https://raw.githubusercontent.com/SteveP999/stephen-parsons/main/images/covers/stephen-parsons-done-with-the-damage-cover.png",
-      "audioSrc": "https://www.dropbox.com/scl/fi/oww767j5mv9zhebw4qnqh/stephen-parsons-done-with-the-damage.mp3.mp3?rlkey=m50njubs1y0k40ijrttlkw1ts&raw=1",
+      "cover": "https://raw.githubusercontent.com/SteveP999/stephen-parsons/main/images/covers/stephen-parsons-run-to-his-heart-cover.png",
+      "audioSrc": "https://www.dropbox.com/scl/fi/k18bdosdhrhi0kggek6q0/stephen-parsons-run-to-his-heart-mp3.mp3?rlkey=2xp47q5q2ysrsgke184sx8rau&raw=1",
+      "videos": []
+    },
+    {
+      "title": "Wide Open Silence",
+      "artist": "Stephen Parsons",
+      "album": "Touches of the Heart",
+      "cover": "https://raw.githubusercontent.com/SteveP999/stephen-parsons/main/images/covers/stephen-parsons-wide-open-silence-cover.png",
+      "audioSrc": "https://www.dropbox.com/scl/fi/4wt3mx9s3woo05d7ff5ei/stephen-parsons-wide-open-silence-mp3.mp3?rlkey=xak7nxx0xb0s9ivrn6azgpbt8&raw=1",
       "videos": []
     },
     {
@@ -43,6 +51,14 @@
       "videos": []
     },
     {
+      "title": "Done With The Damage",
+      "artist": "Stephen Parsons",
+      "album": "Touches of the Heart",
+      "cover": "https://raw.githubusercontent.com/SteveP999/stephen-parsons/main/images/covers/stephen-parsons-done-with-the-damage-cover.png",
+      "audioSrc": "https://www.dropbox.com/scl/fi/oww767j5mv9zhebw4qnqh/stephen-parsons-done-with-the-damage.mp3.mp3?rlkey=m50njubs1y0k40ijrttlkw1ts&raw=1",
+      "videos": []
+    },
+    {
       "title": "My Daughter's Heart",
       "artist": "Stephen Parsons",
       "album": "Touches of the Heart",
@@ -59,27 +75,11 @@
       "videos": []
     },
     {
-      "title": "Run to His Heart",
+      "title": "Calling in the Silence",
       "artist": "Stephen Parsons",
       "album": "Touches of the Heart",
-      "cover": "https://raw.githubusercontent.com/SteveP999/stephen-parsons/main/images/covers/stephen-parsons-run-to-his-heart-cover.png",
-      "audioSrc": "https://www.dropbox.com/scl/fi/k18bdosdhrhi0kggek6q0/stephen-parsons-run-to-his-heart-mp3.mp3?rlkey=2xp47q5q2ysrsgke184sx8rau&raw=1",
-      "videos": []
-    },
-    {
-      "title": "Thank You Mom and Dad",
-      "artist": "Stephen Parsons",
-      "album": "Touches of the Heart",
-      "cover": "https://raw.githubusercontent.com/SteveP999/stephen-parsons/main/images/covers/stephen-parsons-thank-you-mom-and-dad-cover.png",
-      "audioSrc": "https://www.dropbox.com/scl/fi/09pimczovbjl5bbjqoxjf/stephen-parsons-thank-you-mom-and-dad-mp3.mp3?rlkey=v5qac8t8s945oe016y1p2lnej&raw=1",
-      "videos": []
-    },
-    {
-      "title": "Wide Open Silence",
-      "artist": "Stephen Parsons",
-      "album": "Touches of the Heart",
-      "cover": "https://raw.githubusercontent.com/SteveP999/stephen-parsons/main/images/covers/stephen-parsons-wide-open-silence-cover.png",
-      "audioSrc": "https://www.dropbox.com/scl/fi/4wt3mx9s3woo05d7ff5ei/stephen-parsons-wide-open-silence-mp3.mp3?rlkey=xak7nxx0xb0s9ivrn6azgpbt8&raw=1",
+      "cover": "https://raw.githubusercontent.com/SteveP999/stephen-parsons/main/images/covers/stephen-parsons-calling-in-the-silence.png",
+      "audioSrc": "https://www.dropbox.com/scl/fi/qifps9vrox4dbkrsf4k5u/stephen-parsons-calling-in-the-silence-mp3.mp3?rlkey=7zz2iut6s3n23sbf8q23rot2s&raw=1",
       "videos": []
     }
   ]
