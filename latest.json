@@ -1,11 +1,11 @@
 {
-  "title": "Just Move On",
+  "title": "Finally Alive",
   "artist": "Stephen Parsons",
   "album": "Touches of the Heart",
   "type": "Latest Single",
-  "cover": "images/covers/stephen-parsons-just-move-on-cover.png",
-  "image": "images/covers/stephen-parsons-just-move-on-cover.png",
-  "audio": "https://www.dropbox.com/scl/fi/0jh7i1oix1yhh5jyc51n2/just-move-on.mp3?rlkey=duqmyacqvmc1ghcqeb8pkrs8k&raw=1",
-  "audioSrc": "https://www.dropbox.com/scl/fi/0jh7i1oix1yhh5jyc51n2/just-move-on.mp3?rlkey=duqmyacqvmc1ghcqeb8pkrs8k&raw=1",
+  "cover": "https://raw.githubusercontent.com/SteveP999/stephen-parsons/main/images/covers/stephen-parsons-finally-alive-cover.png",
+  "image": "https://raw.githubusercontent.com/SteveP999/stephen-parsons/main/images/covers/stephen-parsons-finally-alive-cover.png",
+  "audio": "https://www.dropbox.com/scl/fi/0ernzio6gq5ttmywlvkr0/stephen-parsons-finally-alive-mp3.mp3?rlkey=mv3dasyg5uxx2sqv1q1fi48mv&raw=1",
+  "audioSrc": "https://www.dropbox.com/scl/fi/0ernzio6gq5ttmywlvkr0/stephen-parsons-finally-alive-mp3.mp3?rlkey=mv3dasyg5uxx2sqv1q1fi48mv&raw=1",
   "videos": []
 }
