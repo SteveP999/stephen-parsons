@@ -17,7 +17,8 @@
     "includeOnRadio": true,
     "includeOnHomepage": false,
     "explicit": false,
-    "tags": []
+    "tags": [],
+    "streaming": {}
   },
   {
     "id": "done_with_the_damage",
@@ -37,7 +38,8 @@
     "includeOnRadio": true,
     "includeOnHomepage": false,
     "explicit": false,
-    "tags": []
+    "tags": [],
+    "streaming": {}
   },
   {
     "id": "stephen-parsons-finally-alive",
@@ -49,7 +51,7 @@
     "albumOrder": 3,
     "albumCover": "images/covers/stephen-parsons-touches-of-the-heart-ALBUM-cover.png",
     "type": "single",
-    "isLatest": true,
+    "isLatest": false,
     "cover": "images/covers/stephen-parsons-finally-alive-cover.png",
     "audio": "https://www.dropbox.com/scl/fi/0ernzio6gq5ttmywlvkr0/stephen-parsons-finally-alive-mp3.mp3?rlkey=mv3dasyg5uxx2sqv1q1fi48mv&raw=1",
     "audioSrc": "https://www.dropbox.com/scl/fi/0ernzio6gq5ttmywlvkr0/stephen-parsons-finally-alive-mp3.mp3?rlkey=mv3dasyg5uxx2sqv1q1fi48mv&raw=1",
@@ -57,7 +59,8 @@
     "includeOnRadio": true,
     "includeOnHomepage": true,
     "explicit": false,
-    "tags": []
+    "tags": [],
+    "streaming": {}
   },
   {
     "id": "stephen-parsons-here-and-now",
@@ -77,7 +80,8 @@
     "includeOnRadio": true,
     "includeOnHomepage": false,
     "explicit": false,
-    "tags": []
+    "tags": [],
+    "streaming": {}
   },
   {
     "id": "stephen-parsons-just-move-on",
@@ -97,7 +101,8 @@
     "includeOnRadio": true,
     "includeOnHomepage": true,
     "explicit": false,
-    "tags": []
+    "tags": [],
+    "streaming": {}
   },
   {
     "id": "love_for_eternity",
@@ -117,7 +122,8 @@
     "includeOnRadio": true,
     "includeOnHomepage": false,
     "explicit": false,
-    "tags": []
+    "tags": [],
+    "streaming": {}
   },
   {
     "id": "moms_love",
@@ -137,7 +143,8 @@
     "includeOnRadio": true,
     "includeOnHomepage": false,
     "explicit": false,
-    "tags": []
+    "tags": [],
+    "streaming": {}
   },
   {
     "id": "my_daughters_heart",
@@ -157,7 +164,8 @@
     "includeOnRadio": true,
     "includeOnHomepage": false,
     "explicit": false,
-    "tags": []
+    "tags": [],
+    "streaming": {}
   },
   {
     "id": "rise_up",
@@ -177,7 +185,8 @@
     "includeOnRadio": true,
     "includeOnHomepage": false,
     "explicit": false,
-    "tags": []
+    "tags": [],
+    "streaming": {}
   },
   {
     "id": "run_to_his_heart",
@@ -197,7 +206,8 @@
     "includeOnRadio": true,
     "includeOnHomepage": false,
     "explicit": false,
-    "tags": []
+    "tags": [],
+    "streaming": {}
   },
   {
     "id": "thank_you_mom_and_dad",
@@ -217,7 +227,8 @@
     "includeOnRadio": true,
     "includeOnHomepage": false,
     "explicit": false,
-    "tags": []
+    "tags": [],
+    "streaming": {}
   },
   {
     "id": "wide_open_silence",
@@ -237,6 +248,28 @@
     "includeOnRadio": true,
     "includeOnHomepage": false,
     "explicit": false,
-    "tags": []
+    "tags": [],
+    "streaming": {}
+  },
+  {
+    "id": "stephen-parsons-trust-your-heart",
+    "num": "13",
+    "title": "Trust Your Heart",
+    "artist": "Stephen Parsons",
+    "album": "Trust Your Heart",
+    "trackNumber": 13,
+    "albumOrder": 13,
+    "albumCover": "images/covers/stephen-parsons-trust-your-heart-ALBUM-cover.png",
+    "type": "single",
+    "isLatest": true,
+    "cover": "images/covers/stephen-parsons-trust-your-heart-cover.png",
+    "audio": "https://www.dropbox.com/scl/fi/8fy0yp9c22rykx23a0p9y/Trust-your-Heart-by-Stephen-Parsons.mp3?rlkey=9ijcdz8twklzjzdmz2yrqtqhd&raw=1",
+    "audioSrc": "https://www.dropbox.com/scl/fi/8fy0yp9c22rykx23a0p9y/Trust-your-Heart-by-Stephen-Parsons.mp3?rlkey=9ijcdz8twklzjzdmz2yrqtqhd&raw=1",
+    "videos": [],
+    "includeOnRadio": true,
+    "includeOnHomepage": true,
+    "explicit": false,
+    "tags": [],
+    "streaming": {}
   }
 ]
