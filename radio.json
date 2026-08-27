@@ -2,14 +2,30 @@
   "artist": "Stephen Parsons",
   "latestUrl": "latest.json",
   "featuredTrack": {
-    "title": "Finally Alive",
+    "title": "Enjoy the Ride",
     "artist": "Stephen Parsons",
-    "album": "Touches of the Heart",
-    "cover": "https://raw.githubusercontent.com/SteveP999/stephen-parsons/main/images/covers/stephen-parsons-finally-alive-cover.png",
-    "audioSrc": "https://www.dropbox.com/scl/fi/0ernzio6gq5ttmywlvkr0/stephen-parsons-finally-alive-mp3.mp3?rlkey=mv3dasyg5uxx2sqv1q1fi48mv&raw=1",
+    "album": "Miles from Yesterday",
+    "cover": "https://raw.githubusercontent.com/SteveP999/stephen-parsons/main/images/covers/stephen-parsons-enjoy-the-ride-cover.png",
+    "audioSrc": "https://www.dropbox.com/scl/fi/zcpj2mipxvvhkmtokuwwg/stephen-parsons-enjoy-the-ride-mp3.mp3?rlkey=716hf79rpjrv2dht9arl9vtqw&raw=1",
     "videos": []
   },
   "tracks": [
+    {
+      "title": "Trust Your Heart",
+      "artist": "Stephen Parsons",
+      "album": "Miles from Yesterday",
+      "cover": "https://raw.githubusercontent.com/SteveP999/stephen-parsons/main/images/covers/stephen-parsons-trust-your-heart-cover.png",
+      "audioSrc": "https://www.dropbox.com/scl/fi/8fy0yp9c22rykx23a0p9y/stephen-parsons-trust-your-heart-mp3.mp3?rlkey=9ijcdz8twklzjzdmz2yrqtqhd&raw=1",
+      "videos": []
+    },
+    {
+      "title": "Enjoy the Ride",
+      "artist": "Stephen Parsons",
+      "album": "Miles from Yesterday",
+      "cover": "https://raw.githubusercontent.com/SteveP999/stephen-parsons/main/images/covers/stephen-parsons-enjoy-the-ride-cover.png",
+      "audioSrc": "https://www.dropbox.com/scl/fi/zcpj2mipxvvhkmtokuwwg/stephen-parsons-enjoy-the-ride-mp3.mp3?rlkey=716hf79rpjrv2dht9arl9vtqw&raw=1",
+      "videos": []
+    },
     {
       "title": "Calling in the Silence",
       "artist": "Stephen Parsons",
