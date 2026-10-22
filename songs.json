@@ -89,11 +89,36 @@
     "includeOnHomepage": false,
     "explicit": false,
     "tags": [],
+    "streaming": {
+      "spotify": "",
+      "apple": "",
+      "youtubeMusic": ""
+    }
+  },
+  {
+    "id": "stephen-parsons-cowboy-through-and-through",
+    "num": "05",
+    "title": "Cowboy Through and Through",
+    "artist": "Stephen Parsons",
+    "album": "Miles from Yesterday",
+    "trackNumber": 5,
+    "albumOrder": 5,
+    "albumCover": "images/covers/stephen-parsons-miles-from-yesterday-ALBUM-cover.png",
+    "type": "single",
+    "isLatest": true,
+    "cover": "images/covers/stephen-parsons-cowboy-through-and-through-cover.png",
+    "audio": "https://www.dropbox.com/scl/fi/z56vjan2o019rbk161cys/stephen-parsons-cowboy-through-and-through-MP3-mastered.mp3?rlkey=9ucwj4n7sfbmgbmm5p9xq0gtg&st=v86ipcy3&raw=1",
+    "audioSrc": "https://www.dropbox.com/scl/fi/z56vjan2o019rbk161cys/stephen-parsons-cowboy-through-and-through-MP3-mastered.mp3?rlkey=9ucwj4n7sfbmgbmm5p9xq0gtg&st=v86ipcy3&raw=1",
+    "videos": [],
+    "includeOnRadio": false,
+    "includeOnHomepage": true,
+    "explicit": false,
+    "tags": [],
     "streaming": {}
   },
   {
     "id": "calling_in_the_silence",
-    "num": "05",
+    "num": "06",
     "title": "Calling in the Silence",
     "artist": "Stephen Parsons",
     "album": "Touches of the Heart",
@@ -114,7 +139,7 @@
   },
   {
     "id": "rise_up",
-    "num": "06",
+    "num": "07",
     "title": "Rise Up",
     "artist": "Stephen Parsons",
     "album": "Touches of the Heart",
@@ -135,7 +160,7 @@
   },
   {
     "id": "love_for_eternity",
-    "num": "07",
+    "num": "08",
     "title": "Love for Eternity",
     "artist": "Stephen Parsons",
     "album": "Touches of the Heart",
@@ -156,7 +181,7 @@
   },
   {
     "id": "stephen-parsons-just-move-on",
-    "num": "08",
+    "num": "09",
     "title": "Just Move On",
     "artist": "Stephen Parsons",
     "album": "Touches of the Heart",
@@ -177,7 +202,7 @@
   },
   {
     "id": "run_to_his_heart",
-    "num": "09",
+    "num": "10",
     "title": "Run to His Heart",
     "artist": "Stephen Parsons",
     "album": "Touches of the Heart",
@@ -198,7 +223,7 @@
   },
   {
     "id": "thank_you_mom_and_dad",
-    "num": "10",
+    "num": "11",
     "title": "Thank You Mom and Dad",
     "artist": "Stephen Parsons",
     "album": "Touches of the Heart",
@@ -219,7 +244,7 @@
   },
   {
     "id": "wide_open_silence",
-    "num": "11",
+    "num": "12",
     "title": "Wide Open Silence",
     "artist": "Stephen Parsons",
     "album": "Touches of the Heart",
@@ -240,7 +265,7 @@
   },
   {
     "id": "moms_love",
-    "num": "12",
+    "num": "13",
     "title": "Mom's Love",
     "artist": "Stephen Parsons",
     "album": "Touches of the Heart",
@@ -261,7 +286,7 @@
   },
   {
     "id": "my_daughters_heart",
-    "num": "13",
+    "num": "14",
     "title": "My Daughter's Heart",
     "artist": "Stephen Parsons",
     "album": "Touches of the Heart",
@@ -282,7 +307,7 @@
   },
   {
     "id": "done_with_the_damage",
-    "num": "14",
+    "num": "15",
     "title": "Done With The Damage",
     "artist": "Stephen Parsons",
     "album": "Touches of the Heart",
@@ -303,7 +328,7 @@
   },
   {
     "id": "stephen-parsons-here-and-now",
-    "num": "15",
+    "num": "16",
     "title": "Here and Now",
     "artist": "Stephen Parsons",
     "album": "Touches of the Heart",
@@ -328,7 +353,7 @@
   },
   {
     "id": "stephen-parsons-finally-alive",
-    "num": "16",
+    "num": "17",
     "title": "Finally Alive",
     "artist": "Stephen Parsons",
     "album": "Touches of the Heart",
@@ -350,26 +375,5 @@
       "apple": "",
       "youtubeMusic": ""
     }
-  },
-  {
-    "id": "stephen-parsons-cowboy-through-and-through",
-    "num": "05",
-    "title": "Cowboy Through and Through",
-    "artist": "Stephen Parsons",
-    "album": "Miles from Yesterday",
-    "trackNumber": 5,
-    "albumOrder": 5,
-    "albumCover": "",
-    "type": "single",
-    "isLatest": true,
-    "cover": "images/covers/stephen-parsons-cowboy-through-and-through-cover.png",
-    "audio": "https://www.dropbox.com/scl/fi/z56vjan2o019rbk161cys/stephen-parsons-cowboy-through-and-through-MP3-mastered.mp3?rlkey=9ucwj4n7sfbmgbmm5p9xq0gtg&st=v86ipcy3&raw=1",
-    "audioSrc": "https://www.dropbox.com/scl/fi/z56vjan2o019rbk161cys/stephen-parsons-cowboy-through-and-through-MP3-mastered.mp3?rlkey=9ucwj4n7sfbmgbmm5p9xq0gtg&st=v86ipcy3&raw=1",
-    "videos": [],
-    "includeOnRadio": false,
-    "includeOnHomepage": true,
-    "explicit": false,
-    "tags": [],
-    "streaming": {}
   }
 ]
