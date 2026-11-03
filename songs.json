@@ -105,13 +105,13 @@
     "albumOrder": 5,
     "albumCover": "images/covers/stephen-parsons-miles-from-yesterday-ALBUM-cover.png",
     "type": "single",
-    "isLatest": true,
+    "isLatest": false,
     "cover": "images/covers/stephen-parsons-cowboy-through-and-through-cover.png",
     "audio": "https://www.dropbox.com/scl/fi/z56vjan2o019rbk161cys/stephen-parsons-cowboy-through-and-through-MP3-mastered.mp3?rlkey=9ucwj4n7sfbmgbmm5p9xq0gtg&st=v86ipcy3&raw=1",
     "audioSrc": "https://www.dropbox.com/scl/fi/z56vjan2o019rbk161cys/stephen-parsons-cowboy-through-and-through-MP3-mastered.mp3?rlkey=9ucwj4n7sfbmgbmm5p9xq0gtg&st=v86ipcy3&raw=1",
     "videos": [],
     "includeOnRadio": false,
-    "includeOnHomepage": true,
+    "includeOnHomepage": false,
     "explicit": false,
     "tags": [],
     "streaming": {}
@@ -375,5 +375,26 @@
       "apple": "",
       "youtubeMusic": ""
     }
+  },
+  {
+    "id": "stephen-parsons-goodbye-road",
+    "num": "06",
+    "title": "Goodbye Road",
+    "artist": "Stephen Parsons",
+    "album": "Miles from Yesterday",
+    "trackNumber": 6,
+    "albumOrder": 6,
+    "albumCover": "",
+    "type": "single",
+    "isLatest": true,
+    "cover": "images/covers/stephen-parsons-goodbye-road-cover.png",
+    "audio": "https://www.dropbox.com/scl/fi/o5qhn478upb39e146tyj0/stephen-parsons-goodbye-road-MP3-mastered.mp3?rlkey=yzeqnvboa7bumdjxgpfw1og8l&raw=1",
+    "audioSrc": "https://www.dropbox.com/scl/fi/o5qhn478upb39e146tyj0/stephen-parsons-goodbye-road-MP3-mastered.mp3?rlkey=yzeqnvboa7bumdjxgpfw1og8l&raw=1",
+    "videos": [],
+    "includeOnRadio": false,
+    "includeOnHomepage": true,
+    "explicit": false,
+    "tags": [],
+    "streaming": {}
   }
 ]
